@@ -11,5 +11,5 @@ Thank you!
 
 Download Components:
 
-[Activity View](https://github.com/zhurankou/Origami/raw/master/ActivityView.origami)
-[Home Screen](https://github.com/zhurankou/Origami/raw/master/HomeScreen.origami)
+* [Activity View](https://github.com/zhurankou/Origami/raw/master/ActivityView.origami)
+* [Home Screen](https://github.com/zhurankou/Origami/raw/master/HomeScreen.origami)
